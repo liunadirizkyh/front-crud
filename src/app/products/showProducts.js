@@ -1,4 +1,4 @@
-import getProducts from "@/features/products/getProducts";
+import getProducts from "@/features/products/fetchProducts";
 
 import {
   Table,
